@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cartelera>
+	<pelicula>
+		<codigo>
+			01
+		</codigo>
+		<titulo>
+			El señor de los anillos
+		</titulo>
+		<anio>
+			2001
+		</anio>
+
+		<duracion>
+			<horas>
+				3
+			</horas>
+			<minutos>
+				28
+			</minutos>
+			<segundos>
+				11
+			</segundos>
+		</duracion>
+
+		<nacionalidad>
+			Reino Unido
+		</nacionalidad>
+		<genero>
+			Fantasia/Aventura
+		</genero>
+		<clasificacion>
+			4 Estrellas
+		</clasificacion>
+		<director>
+			<nombre>
+				Peter Robert
+			</nombre>
+			<apellidos>
+				Jackson
+			</apellidos>
+			<fnacimiento>
+				<anio>
+					1961
+				</anio>
+				<mes>
+					Octubre
+				</mes>
+				<dia>
+					31
+				</dia>
+			</fnacimiento>
+		</director>
+		<reparto>
+			<aprincipal>
+				<nombreorg>
+					Elijah Wood
+				</nombreorg>
+				<nompel>
+					Frodo
+				</nompel>
+			</aprincipal>
+			<asecundario>
+				<nombreorg>
+					Ian McKellen
+				</nombreorg>
+				<nompel>
+					Gandalf
+				</nompel>
+			</asecundario>
+			<dobles>
+				<nombreorg>
+					Jose Lavat
+				</nombreorg>
+				<sustitutode>
+					Gandalf
+				</sustitutode>
+			</dobles>
+		</reparto>
+		<sinopsis>
+			Frodo Bolsón es un hobbit al que su tío Bilbo hace portador del poderoso Anillo Único, capaz de otorgar un poder ilimitado al que la posea, con la finalidad de destruirlo. Sin embargo, fuerzas malignas muy poderosas quieren arrebatárselo.
+		</sinopsis>
+
+	</pelicula>
+</cartelera>
